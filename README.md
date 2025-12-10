@@ -1,11 +1,11 @@
 # Enhancing Generalization in Brain Tumor Diagnosis with Interpretable Squeeze-and-Excitation Enhanced ResNet-101
 
-[![Python Version](python-badge.svg)](https://www.python.org/)
-[![PyTorch Version](pytorch-badge.svg)](https://pytorch.org/)
-[![TorchVision Version](torchvision-badge.svg)](https://pytorch.org/vision/)
-[![OpenCV Version](opencv-badge.svg)](https://opencv.org/)
-[![NumPy Version](numpy-badge.svg)](https://numpy.org/)
-[![Matplotlib Version](matplotlib-badge.svg)](https://matplotlib.org/)
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.1.0-red?logo=pytorch)
+![TorchVision](https://img.shields.io/badge/TorchVision-0.16.0-orange?logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.8.1-green?logo=opencv)
+![NumPy](https://img.shields.io/badge/NumPy-1.26.4-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.2-yellow?logo=matplotlib)
 
 **Status:** Submitted to Scientific Reports  
 
