@@ -1,5 +1,13 @@
 # Enhancing Generalization in Brain Tumor Diagnosis with Interpretable Squeeze-and-Excitation Enhanced ResNet-101
+### 👨‍💻 Authors
+![Status](status-badge.svg)
+| Name | Affiliation | Email |
+|------|------------|-------|
+| Md. Ehsanul Haque | ![East West University](https://img.shields.io/badge/EWU-Bangladesh-blue) | ![Email](https://img.shields.io/badge/2021--3--60--018@std.ewubd.edu-grey) |
+| Md. Nurul Absur | ![City University of New York](https://img.shields.io/badge/CUNY-USA-red) | ![Email](https://img.shields.io/badge/mabsur@gradcenter.cuny.edu-grey) |
+| Pegah Khosravi* | ![University of Central Florida](https://img.shields.io/badge/UCF-USA-orange) <br> ![Institute for AI](https://img.shields.io/badge/Institute_for_AI-orange) | ![Email](https://img.shields.io/badge/pegah.khosravi@ucf.edu-grey) |
 
+\* **Corresponding Author**
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.1.0-red?logo=pytorch)
 ![TorchVision](https://img.shields.io/badge/TorchVision-0.16.0-orange?logo=pytorch)
@@ -7,7 +15,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-1.26.4-blue?logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.2-yellow?logo=matplotlib)
 
-![Status](status-badge.svg)
+
 
 ## Overview
 
