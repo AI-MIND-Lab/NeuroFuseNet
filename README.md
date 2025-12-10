@@ -7,7 +7,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-1.26.4-blue?logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.2-yellow?logo=matplotlib)
 
-![Status](https://raw.githubusercontent.com/AI-MIND-Lab/NeuroFuseNet/a64802715b6a6acc45bb3315154d112ed0ae16d8/status-badge.svg) 
+[![Status][(https://github.com/EhsanulHaque75/Dengue-Paper-Frontiers-in-AI/blob/3468482b563dbbbbd070dfdcb54ab84270c105c4/Published.svg)](https://doi.org/10.3389/frai.2025.1626699)](https://github.com/AI-MIND-Lab/NeuroFuseNet/blob/a64802715b6a6acc45bb3315154d112ed0ae16d8/status-badge.svg)
 
 
 ## Overview
