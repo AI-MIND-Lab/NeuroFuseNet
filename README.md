@@ -53,7 +53,7 @@ Brain tumor diagnosis is critical for timely medical intervention, but models of
 *Figure: Complete workflow of the brain tumor diagnosis pipeline, from dataset preprocessing to interpretable SE-ResNet-101 prediction and Grad-CAM visualization.*
 ## 🗂️ Dataset Image Distribution Across all classes
 
-| Tumor Class   | Main Dataset | PMRAM Dataset | Merged Dataset |
+| Tumor Class   | Main Dataset | PMRAM Dataset (Cross Testing Dataset 1) | Merged Dataset (Cross Testing Dataset 2) |
 |---------------|-------------|---------------|----------------|
 | **Glioma**    | ![1621](https://img.shields.io/badge/1621-Main-blue) | ![373](https://img.shields.io/badge/373-PMRAM-red) | ![3538](https://img.shields.io/badge/3538-Merged-green) |
 | **Meningioma**| ![1645](https://img.shields.io/badge/1645-Main-blue) | ![363](https://img.shields.io/badge/363-PMRAM-red) | ![3818](https://img.shields.io/badge/3818-Merged-green) |
