@@ -15,7 +15,7 @@
 \* **Corresponding Author**
 
 
-\\
+\
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.1.0-red?logo=pytorch)
 ![TorchVision](https://img.shields.io/badge/TorchVision-0.16.0-orange?logo=pytorch)
