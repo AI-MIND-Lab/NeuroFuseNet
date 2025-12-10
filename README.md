@@ -46,6 +46,6 @@ Brain tumor diagnosis is critical for timely medical intervention, but models of
 
 ## 🖼️ Workflow Diagram
 
-![Workflow Diagram](https://raw.githubusercontent.com/AI-MIND-Lab/NeuroFuseNet/0c221601a9c2ceb7be3f178118928267bf782046/workflow.png)
+![Workflow Diagram](workflow.png)
 
 *Figure: Complete workflow of the brain tumor diagnosis pipeline, from dataset preprocessing to interpretable SE-ResNet-101 prediction and Grad-CAM visualization.*
