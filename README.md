@@ -42,3 +42,10 @@ Brain tumor diagnosis is critical for timely medical intervention, but models of
 | **Matplotlib**       | 3.7.2           | ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.2-yellow?logo=matplotlib) |
 | **Training Platform**| Kaggle Notebook | ![Kaggle](https://img.shields.io/badge/Kaggle-P100_GPU-blue?logo=kaggle) |
 | **RAM**              | 29 GiB          | ![RAM](https://img.shields.io/badge/RAM-29GiB-lightgrey) |
+
+
+## 🖼️ Workflow Diagram
+
+![Workflow Diagram](https://raw.githubusercontent.com/AI-MIND-Lab/NeuroFuseNet/0c221601a9c2ceb7be3f178118928267bf782046/workflow.png)
+
+*Figure: Complete workflow of the brain tumor diagnosis pipeline, from dataset preprocessing to interpretable SE-ResNet-101 prediction and Grad-CAM visualization.*
