@@ -76,3 +76,14 @@ Brain tumor diagnosis is critical for timely medical intervention, but models of
 | ![Meningioma](https://img.shields.io/badge/Meningioma-blue) | ![1645](https://img.shields.io/badge/1645-blue) | ![363](https://img.shields.io/badge/363-red)  | ![3818](https://img.shields.io/badge/3818-green) |
 | ![No Tumor](https://img.shields.io/badge/No_Tumor-blue)     | ![2000](https://img.shields.io/badge/2000-blue) | ![396](https://img.shields.io/badge/396-red)  | ![3175](https://img.shields.io/badge/3175-green) |
 | ![Pituitary](https://img.shields.io/badge/Pituitary-blue)   | ![1757](https://img.shields.io/badge/1757-blue) | ![373](https://img.shields.io/badge/373-red)  | ![3755](https://img.shields.io/badge/3755-green) |
+
+## 📂 Datasets & Sources
+
+| Dataset | Source  |
+|---------|-----------------|
+| Main Experiment Dataset | [![Kaggle](https://img.shields.io/badge/Kaggle-Download-blue?logo=kaggle)](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) |
+| PMRAM Dataset (Cross-Dataset Validation) | [![Mendeley](https://img.shields.io/badge/Mendeley-Download-red?logo=mendeley)](https://data.mendeley.com/datasets/m7w55sw88b/1) |
+| Merged Dataset (Cross-Dataset Validation) | [![Kaggle](https://img.shields.io/badge/Kaggle-Download-blue?logo=kaggle)](https://www.kaggle.com/datasets/sohansakib75/brainucfcdv) |
+| Components of Custom Merged Dataset: Pradeep Dataset | [![Kaggle](https://img.shields.io/badge/Kaggle-Download-blue?logo=kaggle)](https://www.kaggle.com/datasets/pradeep2665/brain-mri) |
+| Components of Custom Merged Dataset: Masoud dataset | [![Kaggle](https://img.shields.io/badge/Kaggle-Download-blue?logo=kaggle)](https://www.kaggle.com/datasets/mohamedmetwalysherif/braintumordataset/data?select=Training) |
+
