@@ -20,6 +20,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8.1-green?logo=opencv)
 ![NumPy](https://img.shields.io/badge/NumPy-1.26.4-blue?logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.2-yellow?logo=matplotlib)
+![Open Access](https://img.shields.io/badge/Open_Access-Yes-brightgreen)
+
 
 
 
