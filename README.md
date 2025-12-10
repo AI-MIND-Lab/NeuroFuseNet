@@ -1,7 +1,6 @@
 
 
-# 🧠 Enhancing Generalization in Brain Tumor Diagnosis  
-## with Interpretable Squeeze-and-Excitation Enhanced ResNet-101
+# 🧠 Enhancing Generalization in Brain Tumor Diagnosis with Interpretable Squeeze-and-Excitation Enhanced ResNet-101
 ![Status](status-badge.svg)
 ### 👨‍💻 Authors & Affiliations
 
