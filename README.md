@@ -1,13 +1,21 @@
 # Enhancing Generalization in Brain Tumor Diagnosis with Interpretable Squeeze-and-Excitation Enhanced ResNet-101
 ### 👨‍💻 Authors
 ![Status](status-badge.svg)
+# 🧠 Enhancing Generalization in Brain Tumor Diagnosis  
+## with Interpretable Squeeze-and-Excitation Enhanced ResNet-101
+
+### 👨‍💻 Authors & Affiliations
+
 | Name | Affiliation | Email |
 |------|------------|-------|
-| Md. Ehsanul Haque | ![East West University](https://img.shields.io/badge/EWU-Bangladesh-blue) | ![Email](https://img.shields.io/badge/2021--3--60--018@std.ewubd.edu-grey) |
-| Md. Nurul Absur | ![City University of New York](https://img.shields.io/badge/CUNY-USA-red) | ![Email](https://img.shields.io/badge/mabsur@gradcenter.cuny.edu-grey) |
-| Pegah Khosravi* | ![University of Central Florida](https://img.shields.io/badge/UCF-USA-orange) <br> ![Institute for AI](https://img.shields.io/badge/Institute_for_AI-orange) | ![Email](https://img.shields.io/badge/pegah.khosravi@ucf.edu-grey) |
+| Md. Ehsanul Haque | ![EWU](https://img.shields.io/badge/East_West_University_Dhaka_1212_Bangladesh-blue) | ![Email](https://img.shields.io/badge/2021--3--60--018@std.ewubd.edu-grey) |
+| Md. Nurul Absur | ![CUNY](https://img.shields.io/badge/Department_of_Computer_Science_City_University_of_New_York_New_York_USA-red) | ![Email](https://img.shields.io/badge/mabsur@gradcenter.cuny.edu-grey) |
+| Pegah Khosravi* | ![UCF1](https://img.shields.io/badge/Department_of_Clinical_Sciences_College_of_Medicine_University_of_Central_Florida_Orlando_FL_USA-orange) <br> ![UCF2](https://img.shields.io/badge/Institute_for_Artificial_Intelligence_Department_of_Computer_Science_University_of_Central_Florida_Orlando_FL_USA-orange) | ![Email](https://img.shields.io/badge/pegah.khosravi@ucf.edu-grey) |
 
 \* **Corresponding Author**
+
+
+\\
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.1.0-red?logo=pytorch)
 ![TorchVision](https://img.shields.io/badge/TorchVision-0.16.0-orange?logo=pytorch)
