@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="30" viewBox="0 0 300 30">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#007acc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#005f99;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="30" rx="15" ry="15" fill="url(#grad1)" stroke="#003d66" stroke-width="1"/>
+  <!-- Icon: Simple document/paper with checkmark -->
+  <g transform="translate(10,5)">
+    <rect x="0" y="0" width="20" height="20" fill="none" stroke="white" stroke-width="1" rx="2"/>
+    <line x1="5" y1="10" x2="8" y2="13" stroke="white" stroke-width="1"/>
+    <line x1="8" y1="13" x2="15" y2="6" stroke="white" stroke-width="1"/>
+  </g>
+  <text x="170" y="20" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Submitted to Scientific Reports</text>
+</svg>
