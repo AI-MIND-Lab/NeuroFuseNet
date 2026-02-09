@@ -1,6 +1,6 @@
 
 
-# 🧠 Enhancing Generalization in Brain Tumor Diagnosis with Interpretable Squeeze-and-Excitation Enhanced ResNet-101
+# 🧠 A generalizable attention-enhanced deep learning framework for interpretable medical image classification
 ![Status](status-badge.svg)
 ### 👨‍💻 Authors & Affiliations
 
@@ -8,6 +8,7 @@
 |------|------------|-------|
 | Md. Ehsanul Haque | ![EWU](https://img.shields.io/badge/East_West_University_Dhaka_1212_Bangladesh-blue) | ![Email](https://img.shields.io/badge/2021--3--60--018@std.ewubd.edu-grey) |
 | Md. Nurul Absur | ![CUNY](https://img.shields.io/badge/Department_of_Computer_Science_City_University_of_New_York_New_York_USA-red) | ![Email](https://img.shields.io/badge/mabsur@gradcenter.cuny.edu-grey) |
+| Tina Tran | ![UCF2](https://img.shields.io/badge/Institute_for_Artificial_Intelligence_Department_of_Computer_Science_University_of_Central_Florida_Orlando_FL_USA-orange) | ![Email](https://img.shields.io/badge/tran.tina2@ucf.edu-grey) |
 | Pegah Khosravi* | ![UCF1](https://img.shields.io/badge/Department_of_Clinical_Sciences_College_of_Medicine_University_of_Central_Florida_Orlando_FL_USA-orange) <br> ![UCF2](https://img.shields.io/badge/Institute_for_Artificial_Intelligence_Department_of_Computer_Science_University_of_Central_Florida_Orlando_FL_USA-orange) | ![Email](https://img.shields.io/badge/pegah.khosravi@ucf.edu-grey) |
 
 \* **Corresponding Author**
@@ -29,7 +30,7 @@
 
 This repository contains the implementation and code for the paper titled:
 
-**_"Enhancing Generalization in Brain Tumor Diagnosis with Interpretable Squeeze-and-Excitation Enhanced ResNet-101"_**
+**_"A generalizable attention-enhanced deep learning framework for interpretable medical image classification"_**
 
 The work focuses on improving brain tumor classification using deep learning techniques, with an emphasis on **interpretability** and **cross-dataset generalization**.
 
